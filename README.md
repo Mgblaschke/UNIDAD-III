@@ -1,2 +1,4 @@
 # POOS2
-Semana 02 : Desarrollo de Ejemplos de Técnicas de Programación (POO)
+ESTUDIANTE: MILENA BLASCHKE LOPEZ
+Mediante este repositorio se va a poner en practica lo aprendidos en la clase de "Técnicas de Programación"
+Desarrollo de Ejemplos de Técnicas de Programación (POO)
