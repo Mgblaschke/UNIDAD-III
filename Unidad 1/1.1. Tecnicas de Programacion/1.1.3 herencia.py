@@ -7,8 +7,8 @@ class Pokemon:
         self.color = color
         self.peso = peso
 
-    def eat(self):
-        self.peso = + 1
+        def eat(self):
+          self.peso += 1
 
 class electrico(Pokemon):
     def __init__(self, nombre, color, peso, nivel):
