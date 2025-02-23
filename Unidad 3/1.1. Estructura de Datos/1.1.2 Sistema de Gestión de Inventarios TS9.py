@@ -64,4 +64,3 @@ def menu():
             inventario.mostrar_inventario()
 
 if __name__ == "__main__":
-    menu()
