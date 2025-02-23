@@ -1,4 +1,4 @@
-#
+#Clase producto
 class Producto:
     def __init__(self, id_producto, nombre, cantidad, precio):
         self.id_producto = id_producto
@@ -64,3 +64,4 @@ def menu():
             inventario.mostrar_inventario()
 
 if __name__ == "__main__":
+    menu()
